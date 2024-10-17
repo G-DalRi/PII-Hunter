@@ -66,7 +66,7 @@ class BurpExtender(IBurpExtender, IHttpListener):
         if len(number) < 13:
             return False
 
-        # Algoritmo de Luhn para validação
+        # Algoritmo para validação
         def luhn_check(num):
             total = 0
             reverse_digits = num[::-1]
@@ -136,10 +136,10 @@ class BurpExtender(IBurpExtender, IHttpListener):
         """
         Função que encontra e-mails em um texto (corpo da resposta HTTP)
         """
-        # regular email patter
+        # padrao de email
         email_pattern = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b')
-
-        # Search for e-mails in the body
+        
+        # procura por emails no body
         possible_emails = email_pattern.findall(text)
         return list(set(possible_emails))  # Remove duplicatas
 
