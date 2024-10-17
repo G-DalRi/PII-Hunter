@@ -15,6 +15,7 @@ PII Hunter is a Python-based Burp Suite extension designed to identify Personall
 4. Set Extension type to Python.
 5. Load the PII_Hunter.py script.
 6. The extension will automatically start scanning for PII in HTTP traffic.
+7. Don't forget to have a .jar file in your burp
 
 # Usage
 Once the extension is loaded in Burp Suite, it will automatically scan HTTP responses for sensitive information.
