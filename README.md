@@ -69,8 +69,8 @@ PII Hunter é uma extensão para o Burp Suite feita em Python, projetada para id
 # Uso
 Depois que a extensão for carregada no Burp Suite, ela automaticamente escaneará respostas HTTP em busca de informações sensíveis.
 
-*Todas as PII encontradas (e-mails, CPFs, números de cartão de crédito, números de telefone e datas) serão exibidas no console do Burp.
-A extensão funciona de forma passiva, então não é necessário configurar scans adicionais.
+* Todas as PII encontradas (e-mails, CPFs, números de cartão de crédito, números de telefone e datas) serão exibidas no console do Burp.
+* A extensão funciona de forma passiva, então não é necessário configurar scans adicionais.
 <br></br>
 ![image](https://github.com/user-attachments/assets/eb662a25-557d-4f89-aa50-da38770ca078)
 <br></br>
