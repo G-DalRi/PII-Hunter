@@ -72,7 +72,8 @@ Depois que a extensão for carregada no Burp Suite, ela automaticamente escanear
 *Todas as PII encontradas (e-mails, CPFs, números de cartão de crédito, números de telefone e datas) serão exibidas no console do Burp.
 A extensão funciona de forma passiva, então não é necessário configurar scans adicionais.
 <br></br>
-![image](https://github.com/user-attachments/assets/521b8282-cc4f-4c4a-878b-073e6b83de78)
+![image](https://github.com/user-attachments/assets/eb662a25-557d-4f89-aa50-da38770ca078)
+
 <br></br>
   ![image](https://github.com/user-attachments/assets/255338ca-ffde-44b6-85f1-7606663bfb6c)
 
