@@ -73,7 +73,6 @@ Depois que a extensão for carregada no Burp Suite, ela automaticamente escanear
 A extensão funciona de forma passiva, então não é necessário configurar scans adicionais.
 <br></br>
 ![image](https://github.com/user-attachments/assets/eb662a25-557d-4f89-aa50-da38770ca078)
-
 <br></br>
   ![image](https://github.com/user-attachments/assets/255338ca-ffde-44b6-85f1-7606663bfb6c)
 
