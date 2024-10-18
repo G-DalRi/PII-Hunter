@@ -28,7 +28,7 @@ Once the extension is loaded in Burp Suite, it will automatically scan HTTP resp
 * All matches for PII (emails, CPFs, credit card numbers, phone numbers, and dates) will be displayed in the Burp console.
 * The extension works passively, so you don’t need to configure any additional scans.
 <br></br>
-![image](https://github.com/user-attachments/assets/2df8943e-d3bb-4ce7-b2a0-1302e7054307)
+![image](https://github.com/user-attachments/assets/e6d5b64a-a52a-4046-b86e-68889b994779)
 <br></br>
   ![image](https://github.com/user-attachments/assets/255338ca-ffde-44b6-85f1-7606663bfb6c)
 
