@@ -46,6 +46,8 @@ I'm new to the community, so if you'd like to contribute to the project or sugge
 PORTUGUESE VERSION: <br></br>
 
 PII Hunter é uma extensão para o Burp Suite feita em Python, projetada para identificar Informações de Identificação Pessoal (PII) no tráfego HTTP. Esta ferramenta ajuda profissionais de segurança e testadores de penetração a encontrar dados sensíveis, como e-mails, CPFs válidos, números de cartão de crédito válidos, números de telefone e datas de nascimento.
+<br></br>
+![image](https://github.com/user-attachments/assets/5dc1d18b-246f-42ae-8345-f159663841d1)
 
 
 # Funcionalidades
@@ -69,6 +71,11 @@ Depois que a extensão for carregada no Burp Suite, ela automaticamente escanear
 
 *Todas as PII encontradas (e-mails, CPFs, números de cartão de crédito, números de telefone e datas) serão exibidas no console do Burp.
 A extensão funciona de forma passiva, então não é necessário configurar scans adicionais.
+<br></br>
+![image](https://github.com/user-attachments/assets/521b8282-cc4f-4c4a-878b-073e6b83de78)
+<br></br>
+  ![image](https://github.com/user-attachments/assets/255338ca-ffde-44b6-85f1-7606663bfb6c)
+
 
 # Limitações
 * Esta extensão se concentra em formatos de PII brasileiros (CPF e números de telefone).
