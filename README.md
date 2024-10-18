@@ -1,5 +1,6 @@
 <h1 align="center"> PII Hunter </h1>
 PII Hunter is a Python-based Burp Suite extension designed to identify Personally Identifiable Information (PII) in HTTP traffic. This tool helps security professionals and penetration testers find sensitive data such as emails, valid CPFs, valid credit card numbers, phone numbers, and dates of birth.
+<br>
 
 ![image](https://github.com/user-attachments/assets/5dc1d18b-246f-42ae-8345-f159663841d1)
 
