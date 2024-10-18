@@ -8,7 +8,7 @@ PII Hunter is a Python-based Burp Suite extension designed to identify Personall
 
 # Features
 * Email detection: Scans for common email formats in HTTP responses.
-* Valid CPF detection: Uses Brazil’s CPF validation algorithm to find and verify CPF numbers.
+* Valid CPF detection: Uses Brazil’s CPF validation algorithm to find and verify CPF numbers in the format xxx.xxx.xxx-xx.
 * Credit card detection: Identifies and validates credit card numbers using the Luhn algorithm.
 * Phone number detection: Finds Brazilian phone numbers in the format (xx) xxxxxxxxx.
 * Date of birth detection: Searches for dates in the format dd/mm/yyyy.
@@ -52,7 +52,7 @@ PII Hunter é uma extensão para o Burp Suite feita em Python, projetada para id
 
 # Funcionalidades
 * Detecção de e-mails: Escaneia formatos comuns de e-mail nas respostas HTTP.
-* Detecção de CPF válido: Utiliza o algoritmo de validação do CPF brasileiro para encontrar e verificar números de CPF.
+* Detecção de CPF válido: Utiliza o algoritmo de validação do CPF brasileiro para encontrar e verificar números de CPF no formato xxx.xxx.xxx-xx.
 * Detecção de cartões de crédito: Identifica e valida números de cartão de crédito usando o algoritmo de Luhn.
 * Detecção de números de telefone: Encontra números de telefone brasileiros no formato (xx) xxxxxxxxx.
 * Detecção de datas de nascimento: Procura por datas no formato dd/mm/yyyy.
