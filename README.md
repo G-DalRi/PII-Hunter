@@ -36,8 +36,6 @@ Once the extension is loaded in Burp Suite, it will automatically scan HTTP resp
 
 # Contributing
 I'm new to the community, so if you'd like to contribute to the project or suggest new features, feel free to open a pull request or issue on GitHub, as well as contact me!!
-#
-<br></br>
 <br></br>
 
 <h1 align="center"> PII Hunter </h1>
